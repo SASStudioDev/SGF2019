@@ -13,5 +13,5 @@ title1 c=white f=swiss 'The Cowboy Hat';
 title2 h=2 angle=90 ' ';
 
 proc g3d data=hat;
-   plot y*x=z / ctop=Goldenrod ctext=white;
+   plot y*x=z / ctop=red ctext=white;
 run; run;run;
