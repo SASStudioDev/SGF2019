@@ -1,3 +1,3 @@
 proc sql;
-select * from sashelp.cars where Make = 'Toyota';
+select * from sashelp.cars where Make = 'BMW';
 run; 
