@@ -9,7 +9,7 @@
 /* MEASUREFORMAT - specify to preserve measure   */
 /*  format in the report (currency, for example) */
 /* STAT - SUM or MEAN                            */
-/* N - The "N" in Top N - how many to show       */ 
+/* N - The "N" in Top N - how many to show       */ asdf
 /*************************************************/
 %let data=SASHELP.CARS;
 %let report=MODEL;
