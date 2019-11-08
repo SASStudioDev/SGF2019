@@ -1,5 +1,5 @@
 /*This sas file creates a cowboy hat graphic using proc g3d and some math.*/
-goptions cback=black colors=(white cyan magenta red yellow);
+goptions cback=black colors=(white cyan magenta conflict yellow);
 
 data hat;
    do x=-5 to 5 by .25;
