@@ -4,7 +4,7 @@ goptions cback=black colors=(white cyan red conflict yellow);
 data hat;
    do x=-5 to 5 by .25;
       do y=-5 to 5 by .25;
-         z=sin(sqrt(x*x + y*y));
+         z=sin(sqrt(xaaaaaaa*x + y*y));
          output;
       end;
    end;
